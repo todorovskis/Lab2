@@ -1,0 +1,13 @@
+<resources>
+    <string name="movie_details">DETAILED VIEW</string>
+    <string name="movie_title">TITLE</string>
+    <string name="movie_id">ID</string>
+    <string name="movie_description">DESCRIPTION</string>
+    <string name="movie_director">DIRECTOR</string>
+    <string name="movie_actors">ACTORS [Please separate with a comma]</string>
+    <string name="ok">ADD</string>
+    <string name="cancel">CANCEL</string>
+    <string name="movie_actors_show">ACTORS</string>
+    <string name="app_name">MovieApp</string>
+    <string name="add_button">ADD MOVIE</string>
+</resources>
